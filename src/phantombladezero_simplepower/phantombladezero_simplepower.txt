@@ -1,0 +1,9 @@
+; Simple Power settings. Change a value and save; the game picks it up within 2 seconds.
+; Enable: On, or Off (the mod does nothing).
+Enable=On
+; Attack: the health damage you deal, 0.1 to 10. 1 = the game's own, 1.5 = 50% more, 2 = double.
+Attack=1.5
+; ShaChiAttack: the Sha-Chi damage your hits deal, 0.1 to 10. 1 = the game's own, 1.5 = 50% more, 2 = double.
+ShaChiAttack=1.5
+; ParryShaChi: the Sha-Chi damage your parries deal, 0.1 to 10. 1 = the game's own, 2 = double.
+ParryShaChi=1.5

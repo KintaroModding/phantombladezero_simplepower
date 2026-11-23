@@ -1,0 +1,14 @@
+{
+  "name": "Simple Power",
+  "folder": "phantombladezero_simplepower",
+  "author": "Kintaro",
+  "version": "1.2",
+  "description": "The player's hits deal more health damage and more Sha-Chi damage, the player's parries more Sha-Chi damage: one multiplier for each, x1.5 by default, 0.1 to 10. Enemies are not changed. A PBZModLoader mod; settings in a text file in its folder, or on its Mods Menu page.",
+  "kind": "pbzmodloader",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "modsPath": "ProjectPBZ\\PBZModLoader\\mods",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "pbzmodloader": "2.1.0"
+}
